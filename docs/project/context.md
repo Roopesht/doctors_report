@@ -6,3 +6,4 @@ Intent status: validated 2026-11-08 0a726d5c
 | Path | What | Status | Added by |
 |---|---|---|---|
 | docs/project/intent.md | Project intent | final | define-intent |
+| docs/requirements/ | Requirement documents of the imported features | draft | import-features |
