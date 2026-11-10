@@ -10,7 +10,8 @@ Order: 1 of 8
 Depends on: none
 
 ## Acceptance criteria
-- Header fields (name, age, referred by, date, UHID, Sr. No) can be entered
+- Header fields (name, age, referred by, date, UHID No, Sr. No) can be entered
+- Sr. No is entered manually by the radiologist (not auto-generated)
 - Sex selection (Mr./Mrs.) is required before codes are accepted
 - Male selects the prostate template, female the uterus/ovaries template
 - Date defaults to today
