@@ -9,7 +9,7 @@ Sketch only of what the documents describe.
 | Referred by [____]             |
 | Date [today]                   |
 | UHID No [______]               |
-| Sr. No  [______] (typed by hand)|
+| Sr. No  [______]               |
 | [Start report]                 |
 +--------------------------------+
 ```
