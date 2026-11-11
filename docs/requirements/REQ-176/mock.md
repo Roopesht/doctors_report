@@ -3,13 +3,22 @@
 Sketch only of what the documents describe.
 
 ```
-+--------------------------------+
-| Name [____]        Age [__]    |
-| Sex (o) Male ( ) Female        |
-| Referred by [____]             |
-| Date [today]                   |
-| UHID No [______]               |
-| Sr. No  [______]               |
-| [Start report]                 |
-+--------------------------------+
++------------------------------------------+
+| New report                               |
+|------------------------------------------|
+| Name        [______________]  Age [___]  |
+| Sex         ( ) Mr. (Male)  ( ) Mrs. (Female) |
+| Referred by [______________]             |
+| Date        [today's date  ]             |
+| UHID No     [______________]             |
+| Sr. No      [______________]  (manual)   |
+|                                          |
+| [Start report]                           |
++------------------------------------------+
+
+Flow:
+  Fill header -> select Mr./Mrs. -> template loads
+     Mr.  -> prostate template
+     Mrs. -> uterus/ovaries template
+  No sex selected -> codes are not accepted
 ```
